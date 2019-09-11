@@ -1,2 +1,5 @@
 # hello-word
-pour apprendre
+
+Bonjour à tous,
+
+Comme vous l'aviez compris, je suis en phase d'apprentissage.
